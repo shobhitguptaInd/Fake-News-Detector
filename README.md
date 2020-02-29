@@ -1,2 +1,2 @@
 # Fake-News-Detector
-PRoject to identify fake vs Real news
+Project to identify fake vs Real news
